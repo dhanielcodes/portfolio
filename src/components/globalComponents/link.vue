@@ -4,7 +4,7 @@
             <li class="li"><h3><a href="https://www.linkedin.com/in/daniel-adekoya-010810192/" target="_blank">Ln.</a></h3></li>
             <li class="li"><h3><a href="https://www.instagram.com/danieladekoya_/" target="_blank">Ig.</a></h3></li>
             <li class="li"><h3><a href="https://twitter.com/daniel_adekoya_" target="_blank">Tw.</a></h3></li>
-            <li class="li"><h3><a href="https://github.com/devdanielcodes/" target="_blank">Git.</a></h3></li>
+            <li class="li"><h3><a href="https://github.com/dhanielcodes/" target="_blank">Git.</a></h3></li>
         </ul>
     </div>
 </template>
